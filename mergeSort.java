@@ -1,5 +1,3 @@
-package sort;
-
 public class mergeSort {
 
 	private static void sort(int nums[],int left,int right){
